@@ -30,7 +30,6 @@
 - 🖥️ Developing interactive Console Applications
 - 🚀 Passionate about improving coding skills and building projects
 
-
 ## 🧠 My Focus Areas
 - C++ Programming
 - Object-Oriented Programming (OOP)
@@ -38,21 +37,49 @@
 - Software Design & Logic
 - Problem Solving & Algorithms
 
+```cpp
+#include <iostream>
+#include <string>
+#include <vector>
 
-## 📊 GitHub Stats & Trophies
+using namespace std;
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=waelodeh98&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=86400" alt="waelodeh98's GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=waelodeh98&theme=dark&hide_border=true&cache_seconds=86400" alt="waelodeh98's GitHub Streak" width="49%" />
-</p>
+class WaelSamer
+{
+public:
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=waelodeh98&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Wael Samer's GitHub Trophies" />
-</p>
+    string University = "Philadelphia University";
+    string Major = "Software Engineering";
 
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=waelodeh98&theme=dark&radius=10" alt="waelodeh98's Activity Graph" />
-</p>
+    string PrimaryLanguage = "Modern C++";
+
+    vector<string> CurrentlyLearning =
+    {
+        "C#",
+        "Windows Forms",
+        "Database Systems"
+    };
+
+    vector<string> Skills =
+    {
+        "Object-Oriented Programming",
+        "Data Structures",
+        "Console Applications",
+        "Software Design"
+    };
+
+    string Goal = "Professional Software Engineer";
+};
+
+int main()
+{
+    WaelSamer Developer;
+
+    cout << "Turning ideas into code..." << endl;
+
+    return 0;
+}
+```
 
 
 ## 🛠️ Languages & Tools
