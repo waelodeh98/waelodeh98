@@ -30,6 +30,7 @@
 - 🖥️ Developing interactive Console Applications
 - 🚀 Passionate about improving coding skills and building projects
 
+
 ## 🧠 My Focus Areas
 - C++ Programming
 - Object-Oriented Programming (OOP)
@@ -37,7 +38,9 @@
 - Software Design & Logic
 - Problem Solving & Algorithms
 
+
 ## 📊 GitHub Stats & Trophies
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=waelodeh98&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=86400" alt="waelodeh98's GitHub Stats" width="49%" />
   <img src="https://streak-stats.demolab.com/?user=waelodeh98&theme=dark&hide_border=true&cache_seconds=86400" alt="waelodeh98's GitHub Streak" width="49%" />
@@ -51,44 +54,54 @@
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=waelodeh98&theme=dark&radius=10" alt="waelodeh98's Activity Graph" />
 </p>
 
+
 ## 🛠️ Languages & Tools
 
-> ## Programming Languages
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" style="margin: 4px;" />
+  <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,windows,sql,git,github,vscode,visualstudio&perline=5" />
 </p>
 
-> ## Tools
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" />
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" />
+  <img src="https://img.shields.io/badge/Modern-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-Development-239120?style=flat-square&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET%20Framework-Desktop%20Apps-512BD4?style=flat-square&logo=.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows%20Forms-GUI%20Development-0078D4?style=flat-square&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-Database-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waelodeh98&layout=compact&theme=dark&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
 </p>
 
+
 ## 🔗 Connect with Me
+
 <p align="center">
   <a href="https://www.linkedin.com/in/waelsamer" target="_blank">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" height="40" style="margin:0 8px;" />
   </a>
+
   <a href="https://wa.me/785367555" target="_blank">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" height="40" style="margin:0 8px;" />
   </a>
+
   <a href="mailto:waelodeh2005@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin:0 8px;" />
   </a>
+
   <a href="https://github.com/waelodeh98" target="_blank">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WWW.svg" alt="Website" width="40" height="40" style="margin:0 8px;" />
   </a>
 </p>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
 </picture>
+
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
