@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Wael%20Samer%20&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineering%20Student&descSize=18&descAlignY=55&textBg=false"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=%22Turning%20ideas%20into%20code%2C%20one%20console%20app%20at%20a%20time.%22" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3500&pause=1000&color=00FF41&center=true&vCenter=true&width=750&lines=Building+software+with+C%2B%2B+and+clean+design;Learning+Data+Structures+and+Software+Engineering;Turning+ideas+into+real+applications" />
 </p>
 
 <p align="center">
