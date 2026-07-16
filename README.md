@@ -80,8 +80,6 @@ int main()
     return 0;
 }
 ```
-
-
 ## 🛠️ Languages & Tools
 
 <p align="center">
@@ -101,6 +99,32 @@ int main()
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waelodeh98&layout=compact&theme=dark&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
 </p>
 
+## 📊 GitHub Stats & Trophies
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=waelodeh98&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=waelodeh98&theme=tokyonight&hide_border=true" width="48%" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=waelodeh98&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+</div>
+
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=waelodeh98&theme=github-compact&hide_border=true" width="95%" />
+
+</div>
 
 ## 🔗 Connect with Me
 
