@@ -1,4 +1,3 @@
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Wael%20Samer%20&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineering%20Student&descSize=18&descAlignY=55&textBg=false"/>
 
 <p align="center">
@@ -15,6 +14,14 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Modern-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/OOP-Learning-FF9800?style=flat-square" />
+  <img src="https://img.shields.io/badge/Console%20Apps-C%2B%2B-4CAF50?style=flat-square" />
+  <img src="https://img.shields.io/badge/Data%20Structures-In%20Progress-9C27B0?style=flat-square" />
+  <img src="https://img.shields.io/badge/Git-GitHub-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
+
 <img src="https://i.pinimg.com/originals/64/72/36/647236fc1c3aec4ac575c4ed5a8ca524.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
@@ -23,7 +30,6 @@
 - 🖥️ Developing interactive Console Applications
 - 🚀 Passionate about improving coding skills and building projects
 
-
 ## 🧠 My Focus Areas
 - C++ Programming
 - Object-Oriented Programming (OOP)
@@ -31,19 +37,19 @@
 - Software Design & Logic
 - Problem Solving & Algorithms
 
-
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=waelodeh98&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=86400" alt="waelodeh98's GitHub Stats" width="49%" />
   <img src="https://streak-stats.demolab.com/?user=waelodeh98&theme=dark&hide_border=true&cache_seconds=86400" alt="waelodeh98's GitHub Streak" width="49%" />
 </p>
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=waelodeh98&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Wael Samer's GitHub Trophies" />
 </p>
+
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=waelodeh98&theme=dark&radius=10" alt="waelodeh98's Activity Graph" />
 </p>
-
 
 ## 🛠️ Languages & Tools
 
